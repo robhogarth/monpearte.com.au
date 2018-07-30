@@ -2,7 +2,7 @@ baseURL = "https://www.monpearte.com.au/"
 languageCode = "en-us"
 title = "Monpearte IT Solutions - IT Solutions for the Central and Far West of NSW"
 theme = "hugo-initio"
-publishDir = "docs"
+publishDir = "public"
 
 [params]
     name = "Monpearte IT Solutions"
