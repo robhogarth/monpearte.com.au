@@ -5,14 +5,25 @@ type = "about"
 weight = 10
 +++
 
-Lorem ipsum dolor sit amet, consectetur adipisicing elit. Eveniet, consequuntur eius repellendus eos aliquid molestiae ea laborum ex quibusdam laudantium voluptates placeat consectetur quam aliquam beatae soluta accusantium iusto nihil nesciunt unde veniam magnam repudiandae sapiente.
+Monpearte IT Solutions is an IT company dedicated to helping regional NSW get the best IT advise there is.  Our staff have over 25 years worth of experience working, we have worked with some of Australia's largest companies.  We have worked with all sorts of industries from manufacturing, mining, retailers and their franchies, education, legal and bakers.<p>
+Whether you are just thinking about getting a web presence, to managing your entire IT requirements we can help.  We live and work in regional Australia and are ready to help you with your technology needs.
+
+### Advice you can trust
+
+We bring this together with a proven history of strategic planning to advise companies of all sizes large and small.  Whether it's managing the internal IT needs of your business, helping get your business out there on the internet or both we can help.  Let us help develop a strategy with you and help you make the most of technology.
+
+### Skills for every solution
+
+We have a diverse range of technical skill sets:<ul>
+<li>infrastructure management
+<li>desktop support
+<li>networking
+<li>telephony
+<li>website design
+<li>social media management
+<li>search engine optomisation
+<li>and the latest in cloud technologies.  
+</ul>
+
 
 ![about](../images/mac.jpg)
-
-### Necessitatibus
-
-Velit, odit, eius, libero unde impedit quaerat dolorem assumenda alias consequuntur optio quae maiores ratione tempore sit aliquid architecto eligendi pariatur ab soluta doloremque dicta aspernatur labore quibusdam dolore corrupti quod inventore. Maiores, repellat, consequuntur eius repellendus eos aliquid molestiae ea laborum ex quibusdam laudantium voluptates placeat consectetur quam aliquam!
-
-### Fugit, laboriosam
-
-Eum, quasi, est, vitae, ipsam nobis consectetur ea aspernatur ad eos voluptatibus fugiat nisi perferendis impedit. Quam, nulla, excepturi, voluptate minus illo tenetur sint ab in culpa cumque impedit quibusdam. Saepe, molestias quia voluptatem natus velit fugiat omnis rem eos sapiente quasi quaerat aspernatur quisquam deleniti accusantium laboriosam odio id?
