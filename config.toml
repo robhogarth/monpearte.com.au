@@ -41,7 +41,7 @@ enableRobotsTXT = "true"
 
 [[params.social]]
 	title = "facebook"
-	url = "https://www.facebook.com/monpearteIT"
+	url = "https://www.facebook.com/monpearteitsolutions/"
     icon = "fa-facebook-square"
     footer = true
     sharethis = true
