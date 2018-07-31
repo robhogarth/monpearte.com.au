@@ -1,4 +1,4 @@
-baseURL = "https://monpearte.com.au"
+baseURL = "https://monpearte.com.au/"
 languageCode = "en-us"
 title = "Monpearte IT Solutions - IT Solutions for the Central and Far West of NSW"
 theme = "hugo-initio"
