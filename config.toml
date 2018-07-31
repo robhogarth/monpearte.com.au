@@ -6,7 +6,7 @@ publishDir = "public"
 
 [params]
     name = "Monpearte IT Solutions"
-    description = "IT Solutions for the Central and Far West of NSW"
+    description = "IT Solutions for the Central and Far West NSW"
     email = "info@monpearte.com.au"
     year = 2017
     background = ""
@@ -15,14 +15,14 @@ publishDir = "public"
 
     showSubheader = true
     showServices = true
-    showRecentWorks = false
+
     showDownload = true
     showClients = false
 
     footerEnableContact = true
     footerEnableFollowme = true
     footerEnableTextWidget = true
-    footerEnableFormWidget = false
+    footerEnableFormWidget = true
 
 [[menu.main]]
     name = "home"
