@@ -16,6 +16,7 @@ We are ready and waiting to help transform your business.  Let us know how we ca
   </p>
   <p>
     <label>Message:    <textarea name="message" rows="8" cols="59"></textarea></label>
+  <label><input type="checkbox" name="mailinglist" value="mailme" checked=true> I would like to receive regular updates and information</label>
   </p>
   <p>
     <button type="submit">Send</button>
