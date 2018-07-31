@@ -55,7 +55,7 @@ enableRobotsTXT = "true"
     network = "twitter"
 [[params.social]]
 	title = "linkedin"
-	url = "https://www.linkedin.com/in/monpearteIT"
+	url = "https://www.linkedin.com/company/monpearte-it-solutions/"
     icon = "fa-linkedin-square"
     footer = true
     sharethis = true
