@@ -12,6 +12,11 @@ enableRobotsTXT = "true"
     background = ""
     favicon = "images/gt_favicon.png"
     DateForm = "January 2, 2006"
+    Author = "Rob Hogarth"
+    Publisher = "Rob Hogarth"
+    Creator = "Rob Hogarth"
+    AccountableParson = "Rob Hogarth"
+    copyrightHolder = "Rob Hogarth"
 
     showSubheader = true
     showServices = true
