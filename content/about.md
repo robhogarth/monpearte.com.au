@@ -5,8 +5,8 @@ type = "about"
 weight = 10
 +++
 
-Monpearte IT Solutions is an IT company dedicated to helping regional NSW get the best IT advise there is.  Our staff have over 25 years of experience working with some of Australia’s largest companies from a wide range of industries including Manufacturing, Mining, Retailers and Franchisee’s, Education, Legal and Bakers.<p>
-We can help you with any requirements – big or small, so whether you are just thinking about getting a web presence to managing your entire IT solution – we can help.  We live and work in regional Australia and are ready to help you with your technology needs.
+Monpearte IT Solutions is an IT company dedicated to helping regional NSW get the best IT advise there is.  Our staff have over 25 years of experience working with some of Australia's largest companies from a wide range of industries including Manufacturing, Mining, Retailers and Franchisee's, Education, Legal and Bakers.<p>
+We can help you with any requirements - big or small, so whether you are just thinking about getting a web presence to managing your entire IT solution - we can help.  We live and work in regional Australia and are ready to help you with your technology needs.
 
 ### The advice you can trust
 
