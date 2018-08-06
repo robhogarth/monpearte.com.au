@@ -10,7 +10,7 @@ We can help you with any requirements - big or small, so whether you are just th
 
 ### The advice you can trust
 
-We bring this together with a proven history of strategic planning to advise companies of all sizes large and small.  Whether it's managing the internal IT needs of your business, helping get your business out there on the internet or both we can help.  Let us help develop a strategy with you and help you make the most of technology.
+With a proven history of strategic planning to advise companies of all sizes – we are here to help you with your IT needs so that you can focus on your business. Whether you need total internal IT management, help to get your business on the internet, or both – we can help.  Make the most of technology and let us help you develop an IT strategy that works for you.
 
 ### Skills for every solution
 
