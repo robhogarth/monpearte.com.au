@@ -5,6 +5,14 @@ theme = "hugo-initio"
 publishDir = "public"
 enableRobotsTXT = "true"
 
+[sitemap]
+  changefreq = "monthly"
+  filename = "sitemap.xml"
+  priority = 0.5
+
+[author]
+displayName = "Rob Hogarth"
+
 [params]
     name = "Monpearte IT Solutions"
     description = "IT Solutions for the Central and Far West NSW"
@@ -12,11 +20,8 @@ enableRobotsTXT = "true"
     background = ""
     favicon = "images/gt_favicon.png"
     DateForm = "January 2, 2006"
-    Author = "Rob Hogarth"
-    Publisher = "Rob Hogarth"
-    Creator = "Rob Hogarth" 
-    AccountableParson = "Rob Hogarth"
-    copyrightHolder = "Rob Hogarth"
+    tags = "Central West"
+
 
     showSubheader = true
     showServices = true

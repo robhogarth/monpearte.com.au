@@ -9,10 +9,10 @@
 
  				<article class="post">
 					<header class="entry-header">
+ 						<h1 class="entry-title"><a href="{{ .Permalink }}" rel="bookmark">{{ .Title }}</a></h1>
  						<div class="entry-meta">
  							<span class="posted-on"><time class="entry-date published" date="{{ .Date }}">{{ dateFormat .Site.Params.DateForm .Date }}</time></span>
  						</div>
- 						<h1 class="entry-title"><a href="{{ .Permalink }}" rel="bookmark">{{ .Title }}</a></h1>
 					</header>
 					<div class="entry-content">
 						{{ .Content }}

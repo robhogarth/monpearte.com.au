@@ -1,6 +1,8 @@
 +++
 date = "2018-04-12T12:00:00-00:00"
 title = "Why Password Security is Important"
+author = "Sarah Hogarth"
+tags = ["Password", "Security"]
 +++
  
 While passwords can seem restrictive and difficult, ensuring you have secure passwords is important.  You may not think you have any information you want to protect, but look closer look.  Do you share passwords between systems? Is your banking login the same as Facebook and your email?
