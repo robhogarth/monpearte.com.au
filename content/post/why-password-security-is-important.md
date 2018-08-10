@@ -1,7 +1,6 @@
 +++
 date = "2018-08-08T12:00:00-00:00"
 title = "Why Password Security is Important"
-author = "Sarah Hogarth"
 tags = ["Password", "Security"]
 +++
  
