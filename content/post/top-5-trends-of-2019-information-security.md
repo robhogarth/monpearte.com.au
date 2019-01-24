@@ -1,5 +1,5 @@
 +++
-date = "2019-01-24T12:00:00-00:00"
+date = "2019-01-30T12:00:00-00:00"
 title = "Top 5 Trends of 2019 - Information Security is a Business Problem"
 tags = ["Information", "Security"]
 +++
