@@ -1,5 +1,5 @@
 +++
-date = "2019-01-30T12:00:00-00:00"
+date = "2019-01-29T12:00:00-00:00"
 title = "Top 5 Trends of 2019 - Information Security is a Business Problem"
 tags = ["Information", "Security"]
 +++
@@ -14,13 +14,13 @@ The general manager personally ran information sessions about data classificatio
 
 Sure, the IT team was integral to the process.  They helped advise on process and assisted in writing policies and getting systems into line.  IT stood hand in hand with the senior management team and the other business groups to make sure this transformation happened.
 
-When I saw this I was blown away. <img src="/images/mind-blown.jpg" alt="They blew my mind Jerry!" align=right hspace=20>
+When I saw this I was blown away. <img src="/images/mind-blown.jpg" title="They blew my mind Jerry!" alt="They blew my mind Jerry!" align=right hspace=20>
 
 If you try and attack this problem any other way, it's not going to be truly successful.  Sure, you may have compliance requirements that IT could bust their butts getting the house into order.  It may pass an initial external audit.  But sooner or later without an entire company backing real security process and procedure, there's a ticking clock counting down the days till a data breach or a hack or a malicious virus seriously crippling your business.
 
 Information Security is a business problem, not an IT problem.  In 2019 we have CIOs, CTOs and we have Chief Data Officers.  Companies have more information/data than they know what to do with.  And not just any data, they have client information, names, addresses, birthdays, financial data, medical information, employee data.
 
-<img src="/images/leo-information-security.jpg" alt="Information Security is Everyone's Responsibility" align=center hspace=20>
+<img src="/images/leo-information-security.jpg" title="Leo says - Information Security is Everyone's Responsibility" alt="Information Security is Everyone's Responsibility" align=center hspace=20>
 
 In a lot of these cases business and especially owners have large legal responsibilities, let alone ethical responsibilities to ensure this data is safe.
 
