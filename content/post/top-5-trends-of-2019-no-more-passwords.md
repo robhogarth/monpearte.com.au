@@ -37,6 +37,6 @@ Companies like [Yubico](http://yubico.com) have devices such as the Yubikey. The
 
 <center><img src="/images/yubikey-5.jpg" alt="Yubikey....They don't pay me, I just think their neat" title="Yubikey....They don't pay me, I just think their neat" align=middle vspace=20></center><br>
 
-This can help get you on your way to compliance within your company.  Through passwordless logins for Windows domains or cloud based applications or both.  The barrier to entry is lower than ever before, not just from a technology perspective but from a cost.  Yubikey's are under $50 each, and phone based authentication are free.ee
+This can help get you on your way to compliance within your company.  Through passwordless logins for Windows domains or cloud based applications or both.  The barrier to entry is lower than ever before, not just from a technology perspective but from a cost.  Yubikey's are under $50 each, and phone based authentication are free.
 
-If you need help to understand your maturity level, advice on how to implement multifactor authentication in your environment, talk to Monpearte IT solutions
+If you need help to understand your maturity level, advice on how to implement multifactor authentication in your environment, [contact us](/contactus)
