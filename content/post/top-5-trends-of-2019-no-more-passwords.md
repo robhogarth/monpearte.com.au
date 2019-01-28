@@ -29,7 +29,7 @@ These systems provide your phone as the second point of authentication, with rev
 
 Microsoft are pushing hard and have enabled a number of underlying technologies available in the latest releases of Windows to allow 3rd party tokens for authentication, and application support.  This allows native integration without installing 3rd party authentication systems on your network.
 
-The Australian Cyber Security Center has the [Essential Eight Maturity Model](https://acsc.gov.au/publications/protect/essential-eight-maturity-model.htm) which provides a matrix of 8 security areas and various maturity levels to gauge your system against.  Since the introduction of the model in 2017 Multifactor authentication has been a part of it. 
+The Australian Cyber Security Center has published the [Essential Eight Maturity Model](https://acsc.gov.au/publications/protect/essential-eight-maturity-model.htm) which provides a matrix of 8 security areas and various maturity levels to gauge your system against.  Since the introduction of the model in 2017 Multifactor authentication has been a part of it. 
 
 Coming into 2019 the technology is so readily available, if you have a high compliance requirement, expect to be asked about your multifactor authentication implementation.
 
