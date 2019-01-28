@@ -29,12 +29,14 @@ These systems provide your phone as the second point of authentication, with rev
 
 Microsoft are pushing hard and have enabled a number of underlying technologies available in the latest releases of Windows to allow 3rd party tokens for authentication, and application support.  This allows native integration without installing 3rd party authentication systems on your network.
 
-Companies like [Yubico](http://yubico.com) have devices such as the Yubikey which can be used to easily and cheaply<br>
-
-<center><img src="/images/yubikey-5.jpg" alt="Yubikey....They don't pay me, I just think their neat" title="Yubikey....They don't pay me, I just think their neat" align=middle vspace=20></center><br>
-
 The Australian Cyber Security Center has the [Essential Eight Maturity Model](https://acsc.gov.au/publications/protect/essential-eight-maturity-model.htm) which provides a matrix of 8 security areas and various maturity levels to gauge your system against.  Since the introduction of the model in 2017 Multifactor authentication has been a part of it. 
 
 Coming into 2019 the technology is so readily available, if you have a high compliance requirement, expect to be asked about your multifactor authentication implementation.
+
+Companies like [Yubico](http://yubico.com) have devices such as the Yubikey. These devices can now be implemented easily and cheaply, because of implemented protocols in Windows such as Smart Card/PIV, FIDO2 and U2F.  And because these are open standards there are more players in the market and more implementations than ever before.  Hardware tokens are just one way of doing things.<br>
+
+<center><img src="/images/yubikey-5.jpg" alt="Yubikey....They don't pay me, I just think their neat" title="Yubikey....They don't pay me, I just think their neat" align=middle vspace=20></center><br>
+
+This can help get you on your way to compliance within your company.  Through passwordless logins for Windows domains or cloud based applications or both.  The barrier to entry is lower than ever before, not just from a technology perspective but from a cost.  Yubikey's are under $50 each, and phone based authentication are free.ee
 
 If you need help to understand your maturity level, advice on how to implement multifactor authentication in your environment, talk to Monpearte IT solutions
