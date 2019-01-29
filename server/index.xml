@@ -1,0 +1,175 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Monpearte IT Solutions - IT Solutions for the Central and Far West of NSW</title>
+    <link>https://monpearte.com.au/</link>
+    <description>Recent content on Monpearte IT Solutions - IT Solutions for the Central and Far West of NSW</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 29 Jan 2019 12:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://monpearte.com.au/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>About</title>
+      <link>https://monpearte.com.au/about/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://monpearte.com.au/about/</guid>
+      <description>Monpearte IT Solutions is an IT company dedicated to helping regional NSW get the best IT advice there is. Our staff have over 25 years of experience working with some of Australia&amp;rsquo;s largest companies from a wide range of industries including Manufacturing, Mining, Retailers and Franchisee&amp;rsquo;s, Education, Legal and Bakers. We can help you with any requirements - big or small, so whether you are just thinking about getting a web presence to managing your entire IT solution - we can help.</description>
+    </item>
+    
+    <item>
+      <title>Contact Us</title>
+      <link>https://monpearte.com.au/contactus/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://monpearte.com.au/contactus/</guid>
+      <description>We are ready and waiting to help transform your business. Let us know how we can help:
+ Your Name:   Your Email:   Message:  I would like to receive regular updates and information  Send  </description>
+    </item>
+    
+    <item>
+      <title>Top 5 Trends of 2019 - Information Security is a Business Problem</title>
+      <link>https://monpearte.com.au/post/top-5-trends-of-2019-information-security/</link>
+      <pubDate>Tue, 29 Jan 2019 12:00:00 +0000</pubDate>
+      
+      <guid>https://monpearte.com.au/post/top-5-trends-of-2019-information-security/</guid>
+      <description>&lt;p&gt;At the end of last year I had the privilege of working with a company around their information security.  They successfully achieved their ISO 27001 certification.  For a relatively small business that was an enormous effort.&lt;/p&gt;
+
+&lt;p&gt;One of the key reasons they were able to get certified is they realised that Information Security was a problem the entire business needed to attack.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Top 5 Trends of 2019 - Taking your Cloud Strategy Further</title>
+      <link>https://monpearte.com.au/post/top-5-trends-of-2019-cloud-strategy/</link>
+      <pubDate>Mon, 28 Jan 2019 12:00:00 +0000</pubDate>
+      
+      <guid>https://monpearte.com.au/post/top-5-trends-of-2019-cloud-strategy/</guid>
+      <description>It&amp;rsquo;s 2019 do you know where your cloud strategy is at?
+I hope you do, because a of people have it sorted already. If not don&amp;rsquo;t despair.
+I&amp;rsquo;m not saying you need a 100 page white paper detailing the experience, do you know what your overall strategy is? Do you have a plan for expanding it this year?
+I&amp;rsquo;ve recently been working with a very small business. They have had a Windows Small Business Server for many years over a few iterations.</description>
+    </item>
+    
+    <item>
+      <title>Top 5 Trends of 2019 - Infrastructure as Code</title>
+      <link>https://monpearte.com.au/post/top-5-trends-of-2019-infrastructure-as-code/</link>
+      <pubDate>Mon, 28 Jan 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://monpearte.com.au/post/top-5-trends-of-2019-infrastructure-as-code/</guid>
+      <description>&lt;p&gt;Recently I saw a post on the sysadmin section of reddit, a tech who was celebrating the decommissioning of the primary mail server at his company.  He was saying goodbye to a server by name and thanking it for its service.  It was a reasonable size project, coordinating a lot of tasks, outages etc.  It paved the way for upgrades to future Exchange versions for him.  He was suitably excited and so he should have been.  A project done well is always a great feeling.&lt;/p&gt;
+
+&lt;p&gt;However, through all the congratulations, there were a few voices who reminded us all of the mantra:&lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;&amp;ldquo;Servers are cattle, not pets, and definitely not snowflakes&amp;rdquo;&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Top 5 Trends of 2019 - Say Goodbye to Passwords</title>
+      <link>https://monpearte.com.au/post/top-5-trends-of-2019-no-more-passwords/</link>
+      <pubDate>Sun, 27 Jan 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://monpearte.com.au/post/top-5-trends-of-2019-no-more-passwords/</guid>
+      <description>&lt;p&gt;2019 is the year that we move on from passwords.&lt;img src=&#34;https://monpearte.com.au/images/bender-goodbye.jpg&#34; title=&#34;Goodbye Losers....I mean passwords!&#34; alt=&#34;Goodbye Losers....I mean passwords!&#34; align=right hspace=20&gt;&lt;br&gt;&lt;/p&gt;
+
+&lt;p&gt;Everyone hates passwords.  IT people spend hours trying to enforce great habits, but somehow passwords always end up on sticky notes posted on a monitor.  Occasionally the sticky note is put in a drawer.  Nobody ever looks there.&lt;/p&gt;
+
+&lt;p&gt;Whatever the good intentions of everyone involved, passwords are just not working.  The great news is, things are changing and passwords are going to be a thing of the past.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Why Password Security is Important</title>
+      <link>https://monpearte.com.au/post/why-password-security-is-important/</link>
+      <pubDate>Wed, 08 Aug 2018 12:00:00 +0000</pubDate>
+      
+      <guid>https://monpearte.com.au/post/why-password-security-is-important/</guid>
+      <description>&lt;p&gt;While passwords can seem restrictive and difficult, ensuring you have secure passwords is important.  You may not think you have any information you want to protect, but look closer look.  Do you share passwords between systems? Is your banking login the same as Facebook and your email?&lt;/p&gt;
+
+&lt;p&gt;Does this sound like you?&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>When to host your own server</title>
+      <link>https://monpearte.com.au/post/when-to-host-your-own-server/</link>
+      <pubDate>Thu, 22 Mar 2018 12:00:00 +0000</pubDate>
+      
+      <guid>https://monpearte.com.au/post/when-to-host-your-own-server/</guid>
+      <description>&lt;p&gt;After espousing the benefits of the &lt;a href=&#34;https://monpearte.com.au/post/do-i-need-a-server-room&#34;&gt;cloud here&lt;/a&gt;, there are some reasons why you&amp;rsquo;d want to host some of your infrastructure on your own premises.&lt;/p&gt;
+
+&lt;p&gt;More and more technologists are shouting &lt;strong&gt;&amp;ldquo;Cloud Only&amp;rdquo;&lt;/strong&gt; like it&amp;rsquo;s the only option you have.  However, the world is never that black and white, and your IT needs to work on this scale of grey.&lt;/p&gt;
+
+&lt;p&gt;A much better philosophy is &lt;strong&gt;&amp;ldquo;Cloud preferably&amp;rdquo;&lt;/strong&gt;&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Do I Need A Server Room</title>
+      <link>https://monpearte.com.au/post/do-i-need-a-server-room/</link>
+      <pubDate>Mon, 12 Mar 2018 12:00:00 +0000</pubDate>
+      
+      <guid>https://monpearte.com.au/post/do-i-need-a-server-room/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;&lt;em&gt;&amp;ldquo;If it&amp;rsquo;s not your core business, then go to the cloud&amp;rdquo;&lt;/em&gt;&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;In 2018 do you &lt;strong&gt;really&lt;/strong&gt; need a server room?  It depends on a lot of factors, but generally if you are a small business with without a specific onsite requirement for TI services then the answer is no.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Bandwidth and Latency</title>
+      <link>https://monpearte.com.au/post/bandwidth-and-latency/</link>
+      <pubDate>Sat, 24 Feb 2018 12:00:00 +0000</pubDate>
+      
+      <guid>https://monpearte.com.au/post/bandwidth-and-latency/</guid>
+      <description>&lt;p&gt;Understanding the concepts of bandwidth and latency is important in understanding how networkk and internet connections function and why slow can be ambiguous&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Get your IT Scorecard</title>
+      <link>https://monpearte.com.au/service/it-scorecard/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://monpearte.com.au/service/it-scorecard/</guid>
+      <description>&lt;p&gt;As a business, you need to understand where your IT is at.  Do you know how your IT infrastructure rates?  Are there unknown issues waiting to cause problems?&lt;/p&gt;
+
+&lt;p&gt;&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Managed Services</title>
+      <link>https://monpearte.com.au/service/managed-services/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://monpearte.com.au/service/managed-services/</guid>
+      <description>&lt;p&gt;Need an IT team but don&amp;rsquo;t want to manage your own team of geeks.  Let us be your IT team.   We not only keep your tech running, we will give you the strategic advice and planning you need.&lt;/p&gt;
+
+&lt;p&gt;&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Need an Online Makeover?</title>
+      <link>https://monpearte.com.au/service/online-makeover/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://monpearte.com.au/service/online-makeover/</guid>
+      <description>&lt;p&gt;Need a total online overhaul?  A custom domain name, email address and your own social media channels?  Getting that online presence is easy and cheaper than ever these days.&lt;/p&gt;
+
+&lt;p&gt;&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Social Media Engagement</title>
+      <link>https://monpearte.com.au/service/social-media-management/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://monpearte.com.au/service/social-media-management/</guid>
+      <description>&lt;p&gt;Do you need help in engaging your customers?  Want to get into the world of social media but don&amp;rsquo;t know how or have the time to learn?  Let us help you every step of the way&lt;/p&gt;
+
+&lt;p&gt;&lt;/p&gt;</description>
+    </item>
+    
+  </channel>
+</rss>

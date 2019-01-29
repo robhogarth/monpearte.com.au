@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Code on Monpearte IT Solutions - IT Solutions for the Central and Far West of NSW</title>
+    <link>https://monpearte.com.au/tags/code/</link>
+    <description>Recent content in Code on Monpearte IT Solutions - IT Solutions for the Central and Far West of NSW</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 28 Jan 2019 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://monpearte.com.au/tags/code/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Top 5 Trends of 2019 - Infrastructure as Code</title>
+      <link>https://monpearte.com.au/post/top-5-trends-of-2019-infrastructure-as-code/</link>
+      <pubDate>Mon, 28 Jan 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://monpearte.com.au/post/top-5-trends-of-2019-infrastructure-as-code/</guid>
+      <description>&lt;p&gt;Recently I saw a post on the sysadmin section of reddit, a tech who was celebrating the decommissioning of the primary mail server at his company.  He was saying goodbye to a server by name and thanking it for its service.  It was a reasonable size project, coordinating a lot of tasks, outages etc.  It paved the way for upgrades to future Exchange versions for him.  He was suitably excited and so he should have been.  A project done well is always a great feeling.&lt;/p&gt;
+
+&lt;p&gt;However, through all the congratulations, there were a few voices who reminded us all of the mantra:&lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;&amp;ldquo;Servers are cattle, not pets, and definitely not snowflakes&amp;rdquo;&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;&lt;/p&gt;</description>
+    </item>
+    
+  </channel>
+</rss>
