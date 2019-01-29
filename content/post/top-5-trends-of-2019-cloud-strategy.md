@@ -4,7 +4,6 @@ title = "Top 5 Trends of 2019 - Taking your Cloud Strategy Further"
 tags = ["Strategy", "Cloud"]
 +++
 
-
 <img src="/images/oldmanyellsatcloud.jpg" title="I sometimes yell at the cloud" alt="I sometimes yell at the cloud" align=right hspace=20>
 It's 2019 do you know where your cloud strategy is at?
 
@@ -39,7 +38,7 @@ In that environment collaboration tools like Teams and Yammer were the big ticke
 
 It ended up being a great strategy to ensure great adoption.  The business has a pace it can change at, and it's never as fast as you may like.  But that's ok, work with what you can and ensure that the user experience is smooth.  They may miss out on some technologies early on, but don't worry.
 
-In 2019 I think a lot of businesses have made that cloud leap with 365 or Google, but  this year is the year to ensure you have a strategy to push beyond mere email and centralised document storage.
+In 2019 a lot of businesses have made that cloud leap with 365 or Google, but this year is the year to ensure you have a strategy to push beyond mere email and centralised document storage.
 
 Look at building a strategy around collaboration applications, workflows, hosting applications in the cloud or utilising microservices and/or containers.
 
