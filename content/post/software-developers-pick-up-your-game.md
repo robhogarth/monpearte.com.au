@@ -68,7 +68,7 @@ They expected every piece of equipment to stop, come back into the workshops, an
 
 Security Issues
 ---
-Ok you've spent 50hours a month on updates and stopped your entire mine a few times.  You get back to Sysadminin' happily.  You get up to write some guidelines on your IT security policies.  It contains some somewhat standard requirements.
+Ok you've spent 50hours a month on updates and stopped your entire business a few times.  You get back to Sysadminin' happily.  You get up to write some guidelines on your IT security policies.  It contains some somewhat standard requirements.
 
 * No Shared Passwords
 * No users with Admin access
