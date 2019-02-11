@@ -4,7 +4,7 @@ title = "Top 5 Trends of 2019 - Micro Trends"
 tags = ["Micro", "Trends"]
 +++
 
-There's a number of trends out there that you should be considering and keeping your eye on, but don't warrant an entire article this week.   Let's look at micro trends of 2019.
+There's a number of trends out there that you should be considering and keeping your eye on, but don't warrant an entire article this week.   Let's look at micro trends of 2019.<!--more--> 
 
 Workflow Automation
 ---
