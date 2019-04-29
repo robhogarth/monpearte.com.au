@@ -68,7 +68,7 @@ They expected every piece of equipment to stop, come back into the workshops, an
 
 Security Issues
 ---
-Ok you've spent 50hours a month on updates and stopped your entire mine a few times.  You get back to Sysadminin' happily.  You get up to write some guidelines on your IT security policies.  It contains some somewhat standard requirements.
+Ok you've spent 50hours a month on updates and stopped your entire business a few times.  You get back to Sysadminin' happily.  You get up to write some guidelines on your IT security policies.  It contains some somewhat standard requirements.
 
 * No Shared Passwords
 * No users with Admin access
@@ -152,7 +152,7 @@ Once I get the system in, as an IT guy I want to spend time automating data in a
 
 You may think I'm being hard.  Far from it.  These, mostly anonymized examples, are from the last 18 months.  But after a career of dealing with it I'm getting fed up.  Software needs to improve everyone's lives.  If it makes our life harder, more complex, then why are we paying you.  How can I go to my executive team and defend it?
 
-Do the hard work in the background, think about end users, make that UI intuitive, make amazing APIs that integrate can flow data in and out of systems, create beautiful reports straight out of the box.
+Do the hard work in the background, think about end users, make that UI intuitive, make amazing APIs that can integrate data flows in and out of systems, create beautiful reports straight out of the box.
 
 There are some horror stories here and it's been therapeutic to get them off my chest.  But it's not 100% horror.  There are occasional vendors who get it mostly right.  They understand software management in the enterprise.  They are experts in the niche, and when we use your software we are all more productive and it makes our day that bit brighter.  I keep on the look out for those white whales
 
