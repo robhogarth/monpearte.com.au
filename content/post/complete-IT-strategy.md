@@ -1,5 +1,5 @@
 +++
-date = "2019-03-12T12:00:00-00:00"
+date = "2021-03-12T12:00:00-00:00"
 title = "Creating a Complete IT Strategy"
 +++
 

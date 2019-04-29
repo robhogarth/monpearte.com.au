@@ -1,6 +1,6 @@
 +++
-date = "2019-04-30"
-title = "You NEED Backups Tapes....Probably..."
+date = "2019-04-29"
+title = "You NEED Backups Tapes....Probably"
 tags = ["Rant", "Backups"]
 +++
 
@@ -21,15 +21,15 @@ Many times, these "debates" could be called arguments, but usually at the end of
 
 It's said the currency of IT is respect.  And so, debates help to earn respect between peers.  All healthy stuff.  But don't think we don't argue about EVERYTHING.  I've been known to take a contra view just to be difficult.
 
-However, I've found over the years one thing I don’t argue about is backup tapes.
+However, I've found over the years one thing I don't argue about is backup tapes.
 
-Even hearing the term backup tapes probably conjures up a number of different images in each person’s mind.  Big reel-to-reel units from long ago.  Quarter Inch Cartridges from the later part of the last millennium.  Or maybe the modern LTO tapes.
+Even hearing the term backup tapes probably conjures up a number of different images in each person's mind.  Big reel-to-reel units from long ago.  Quarter Inch Cartridges from the later part of the last millennium.  Or maybe the modern LTO tapes.
 
 !["Like it's always been, but better"](/images/ltotape.jpg "Like it's always been, but better")
 
-One common phrase I hear is "Do people still use tapes?"  usually followed by "surely there's something better these days".  Well let’s start by saying tapes are different in some ways these days, but fundamentally they are exactly the same technology that the industry has used for 50 years or more.  Start with a big roll of film type material, use a magnet and encode data onto it.  Start at the beginning and go until you've stopped or reached the end of the tape.
+One common phrase I hear is "Do people still use tapes?"  usually followed by "surely there's something better these days".  Well let's start by saying tapes are different in some ways these days, but fundamentally they are exactly the same technology that the industry has used for 50 years or more.  Start with a big roll of film type material, use a magnet and encode data onto it.  Start at the beginning and go until you've stopped or reached the end of the tape.
 
-I like backup tapes.  I respect people who agree with me (but honestly who doesn't).  And while the media may seem primitive to today’s ultrafast SSD type technologies, it has continued to improve over time at a rapid pace and has some distinct advantages over other storage mediums.
+I like backup tapes.  I respect people who agree with me (but honestly who doesn't).  And while the media may seem primitive to today's ultrafast SSD type technologies, it has continued to improve over time at a rapid pace and has some distinct advantages over other storage mediums.
 
 Firstly, how much can you store on a brand-new tape cartridge?  A Gigabyte?  Maybe even 1 Terabyte?
 
@@ -54,12 +54,12 @@ So, to recap, tapes are:
 
 * Not as slow as you think
 * Hold quite a respectable amount of storage
-* Scale to massive capacity – libraries
-* Completely offline – no ransomware
+* Scale to massive capacity - libraries
+* Completely offline - no ransomware
 * Portable
 * Resilient - can survive falls from car roofs (only at low speeds)
 
-Any business needs to ensure it has great Data Retention, Business Continuity and Disaster Recovery plan.  If you don’t have a comprehensive backup solution right now, I would strongly encourage you to have the conversation ask the scary question “What’s the worst that could happen?”.
-In considering those possibilities I’d be surprised “why aren’t we utilising tapes” is not a phrase that someone mentions.
+Any business needs to ensure it has great Data Retention, Business Continuity and Disaster Recovery plan.  If you don't have a comprehensive backup solution right now, I would strongly encourage you to have the conversation ask the scary question "What's the worst that could happen?".
+In considering those possibilities I'd be surprised "why aren't we utilising tapes" is not a phrase that someone mentions.
 
 !["This is the worst....it's bad"](/images/obliterate.jpg "This is the worst....it's bad")

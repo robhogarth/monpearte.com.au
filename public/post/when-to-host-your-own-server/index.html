@@ -1,0 +1,294 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<meta charset="utf-8">
+	<meta name="viewport"    content="width=device-width, initial-scale=1.0">
+	<meta name="description" content="">
+	<meta name="author"      content="Rob Hogarth">
+
+	<script type="application/ld+json">
+{
+    "@context" : "http://schema.org",
+    "@type" : "BlogPosting",
+    "mainEntityOfPage": {
+         "@type": "WebPage",
+         "@id": "https://monpearte.com.au/"
+    },
+    "articleSection" : "post",
+    "name" : "When to host your own server",
+    "headline" : "When to host your own server",
+    "description" : "<p>After espousing the benefits of the <a href="/post/do-i-need-a-server-room">cloud here</a>, there are some reasons why you&rsquo;d want to host some of your infrastructure on your own premises.</p>
+
+<p>More and more technologists are shouting <strong>&ldquo;Cloud Only&rdquo;</strong> like it&rsquo;s the only option you have.  However, the world is never that black and white, and your IT needs to work on this scale of grey.</p>
+
+<p>A much better philosophy is <strong>&ldquo;Cloud preferably&rdquo;</strong></p>",
+    "inLanguage" : "en-US",
+    "author" : "Rob Hogarth",
+    "creator" : "Rob Hogarth",
+    "publisher": "Rob Hogarth",
+    "accountablePerson" : "Rob Hogarth",
+    "copyrightHolder" : "Rob Hogarth",
+    "copyrightYear" : "2018",
+    "datePublished": "2018-03-22 12:00:00 &#43;0000 &#43;0000",
+    "dateModified" : "2018-03-22 12:00:00 &#43;0000 &#43;0000",
+    "url" : "https://monpearte.com.au/post/when-to-host-your-own-server/",
+    "wordCount" : "756",
+    "keywords" : [ "Blog" ],
+}
+</script>
+	<title>When to host your own server</title>
+
+	<link rel="shortcut icon" href="https://monpearte.com.au/images/gt_favicon.png">
+
+	
+	<link href="https://netdna.bootstrapcdn.com/bootstrap/3.0.0/css/bootstrap.no-icons.min.css" rel="stylesheet">
+	
+	<link href="https://netdna.bootstrapcdn.com/font-awesome/4.0.3/css/font-awesome.css" rel="stylesheet">
+	
+	<link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Alice|Open+Sans:400,300,700">
+	
+	<link rel="stylesheet" href="https://monpearte.com.au/css/styles.css">
+
+	
+
+    
+        <script type="text/javascript" src="//platform-api.sharethis.com/js/sharethis.js#property=123456789012345678901234&product=inline-share-buttons"></script>
+    
+
+<script type="text/javascript" src="//downloads.mailchimp.com/js/signup-forms/popup/embed.js" data-dojo-config="usePlainJson: true, isDebug: false"></script><script type="text/javascript">require(["mojo/signup-forms/Loader"], function(L) { L.start({"baseUrl":"mc.us18.list-manage.com","uuid":"bf986f4fffe146c9e482432df","lid":"24035978e6"}) })</script>
+
+</head>
+<body class="home">
+
+<header id="header">
+	<div id="head" class="parallax" parallax-speed="2">
+		<h1 id="logo" class="text-center">
+			<span class="title">Monpearte IT Solutions</span>
+			<span class="tagline">IT Solutions for the Central and Far West NSW<br>
+				<a href=""></a>
+            </span>
+		</h1>
+	</div>
+
+    <nav class="navbar navbar-default navbar-sticky">
+    <div class="container-fluid">
+
+        <div class="navbar-header">
+            <button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#bs-example-navbar-collapse-1" aria-expanded="true">
+                <span class="sr-only">Toggle navigation</span>
+                <span class="icon-bar"></span>
+                <span class="icon-bar"></span>
+                <span class="icon-bar"></span>
+            </button>
+        </div>
+
+        <div class="navbar-collapse collapse" id="bs-example-navbar-collapse-1">
+
+            <ul class="nav navbar-nav">
+                
+                <li>
+                    <a href="/">home</a>
+                </li>
+                
+                <li>
+                    <a href="/post">blog</a>
+                </li>
+                
+                <li>
+                    <a href="/about/">About</a>
+                </li>
+                
+                <li>
+                    <a href="/contactus/">Contact Us</a>
+                </li>
+                
+                
+            </ul>
+
+        </div>
+    </div>
+</nav>
+
+
+</header>
+
+
+<main id="main">
+
+	<div class="container">
+
+		<div class="row topspace">
+			<div class="col-sm-8 col-sm-offset-2">
+
+ 				<article class="post">
+					<header class="entry-header">
+ 						<h1 class="entry-title"><a href="https://monpearte.com.au/post/when-to-host-your-own-server/" rel="bookmark">When to host your own server</a></h1>
+ 						<div class="entry-meta">
+ 							<span class="posted-on"><time class="entry-date published" date="2018-03-22 12:00:00 &#43;0000 &#43;0000">March 22, 2018</time></span>
+ 						</div>
+					</header>
+					<div class="entry-content">
+						<p>After espousing the benefits of the <a href="/post/do-i-need-a-server-room">cloud here</a>, there are some reasons why you&rsquo;d want to host some of your infrastructure on your own premises.</p>
+
+<p>More and more technologists are shouting <strong>&ldquo;Cloud Only&rdquo;</strong> like it&rsquo;s the only option you have.  However, the world is never that black and white, and your IT needs to work on this scale of grey.</p>
+
+<p>A much better philosophy is <strong>&ldquo;Cloud preferably&rdquo;</strong></p>
+
+<p>So my reasons to host your own server</p>
+
+<h2 id="your-location-limits-your-internet">Your location limits your internet</h2>
+
+<p>While you <em>can</em> access the internet from just about any conceivable location on earth these days, not all internet connections cost the same.   If your business is located somewhere remote, you may have to settle for less than stellar internet.  It may be:</p>
+
+<ul>
+<li>Too slow, either
+
+<ul>
+<li>Not enough <a href="/posts/bandwidth-and-latency">bandwidth</a> ie 2Mb/s vs 100Mb/s.</li>
+<li><a href="/posts/bandwidth-and-latency">Latency</a> is too big to work efficiently</li>
+</ul></li>
+<li>Unreliability.  Fibre to the premises is the gold standard of connectivity but it&rsquo;s definitely not available in all areas of Australia.  Even then if you have a single fibre strand a failure to <em>dial before you dig</em> can put you out of commission pretty quickly.</li>
+<li>Cost is prohibitive.  Maybe you can get the speed you need, but not the amount of data transfer you need for the right cost.</li>
+</ul>
+
+<p>All of these factors are common enough in a lot of regional areas.  While things are improving over time, the sheer size of Australia and lack of population density means that we can never catch up to countries like South Korea.</p>
+
+<p>Do the sums, and weigh up whether that fancy triple redundant, unlimited bandwidth application 200km from civilisation is going to cost more or less than a server in a suitable onsite location.</p>
+
+<h2 id="your-application-is-critical">Your Application is Critical</h2>
+
+<p>I&rsquo;ve heard enough people tell me there IT is <em>critical</em>, but most of the time it isn&rsquo;t.  Sure you&rsquo;d like to have your email 24x7 but if you didn&rsquo;t have it for an hour late at night will it cost $100k in downtime?  Probably not.  However, there are some systems that are absolutely critical, security systems like access control and CCTV or SCADA control systems.  These can be critical and downtime can cost 6 or 7 figures per hour of outage.</p>
+
+<h2 id="your-data-is-sensitive">Your Data is Sensitive</h2>
+
+<p>Some businesses have sensitive data.  I&rsquo;m not talking emails you don&rsquo;t want competitors to see, I&rsquo;m talking properly classified secret data with a license to kill type data.  These days cloud providers are becoming certified to host some types of sensitive data, and with privacy protection laws around PII type data (credit cards etc), you might be worth looking into offloading the responsibility to a third-party.  But sometimes you just can&rsquo;t trust people.</p>
+
+<p>When you consider making your choice, think about not only how your data is stored, but how it is transported.  The server maybe triple locked in a secure vault, but if you send your data as a public Facebook status over the internet, you may not have thought it through.</p>
+
+<h2 id="it-s-your-core-business">It&rsquo;s your core business</h2>
+
+<p>Maybe your core business is something that only works on your tech that you developed that will one day be hosted in the cloud.  Cool, sounds interesting.  If this is your situation you probably already know if it&rsquo;s going to be on premises or in the cloud.  But is it just something you think is core business but is really something you enjoy &ldquo;playing with&rdquo;, well technology is fun for some of us, so who am I to argue.  That&rsquo;s something to defend with your financial controller.</p>
+
+<h2 id="but-we-just-bought-new-gear">But we just bought new gear</h2>
+
+<p>Sometimes the decision is not purely technical.  Did you just do a large infrastructure refresh?  Have an awesome rack full of new servers?  Great!  Use them.  Think about slowly exploring cloud options without having to go all in at one time.  Change always has a risk to the business.  Don&rsquo;t move just without a great reason.  And remember, one day that shiny new server will be old, slow and not as shiny.  Then you can send it to that big server farm in the sky and move to the cloud.</p>
+
+<h2 id="think-hybrid">Think hybrid</h2>
+
+<p>As the saying goes &ldquo;<em>Porque no los dos?</em>&rdquo; - <em>&ldquo;Why not both&rdquo;</em>.  You don&rsquo;t need to commit fully one way or the other.  Think about your infrastructure, applications and services to your business.  What makes sense to put in the cloud, what makes sense to keep.  As I said, change always has some associated risk.  For a lot of businesses, hybrid setups may definitely be the best approach.</p>
+
+<p>Remember <strong>&ldquo;Cloud preferably&rdquo;</strong> not <strong>first</strong></p>
+					</div>
+				</article>
+
+			</div>
+		</div> 
+
+        <div class="row">
+			<div class="col-sm-8 col-sm-offset-2">
+
+				<div id="share">
+                    
+				</div>
+			</div>
+		</div> 
+		<div class="clearfix"></div>
+
+		<div class="row">
+			<div class="col-sm-8 col-sm-offset-2">
+
+				<div id="comments">
+                    
+				</div>
+			</div>
+		</div> 
+		<div class="clearfix"></div>
+
+	</div>	
+
+</main>
+
+<footer id="footer">
+	<div class="container">
+		<div class="row">
+			
+
+			
+			<div class="col-md-3 widget">
+				<h3 class="widget-title">Follow me</h3>
+				<div class="widget-body">
+					<p class="follow-me-icons">
+                        
+                            
+                                <a href="https://www.facebook.com/monpearteitsolutions/" target="_blank"><i class="fa fa-facebook-square fa-2"></i></a>
+                            
+                        
+                            
+                                <a href="https://twitter.com/monpearteIT" target="_blank"><i class="fa fa-twitter-square fa-2"></i></a>
+                            
+                        
+                            
+                                <a href="https://www.linkedin.com/company/monpearte-it-solutions/" target="_blank"><i class="fa fa-linkedin-square fa-2"></i></a>
+                            
+                        
+                            
+                                <a href="mailto:info@monpearte.com.au" target="_blank"><i class="fa fa-envelope fa-2"></i></a>
+                            
+                        
+					</p>
+				</div>
+			</div>
+			
+
+			
+
+			
+
+		</div> 
+	</div>
+</footer>
+
+<footer id="underfooter">
+	<div class="container">
+		<div class="row">
+
+			<div class="col-md-6 widget">
+				<div class="widget-body">
+					<p></p>
+				</div>
+			</div>
+
+			<div class="col-md-6 widget">
+				<div class="widget-body">
+					<p class="text-right">
+						Copyright &copy; 2017, Monpearte IT Solutions<br>
+						Design: <a href="http://www.gettemplate.com" rel="designer">Initio by GetTemplate</a> - 
+                        Powered by: <a href="https://gohugo.io/" rel="poweredby">Hugo</a>
+                    </p>
+				</div>
+			</div>
+
+		</div> 
+	</div>
+</footer>
+
+
+
+
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/1.10.2/jquery.min.js"></script>
+<script src="https://netdna.bootstrapcdn.com/bootstrap/3.0.0/js/bootstrap.min.js"></script>
+<script src="https://monpearte.com.au/js/template.js"></script>
+<script id="dsq-count-scr" src="//hugo-initio-site.disqus.com/count.js" async></script>
+<script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-123121596-2', 'auto');
+  ga('send', 'pageview');
+</script>
+
+</body>
+</html>
+
