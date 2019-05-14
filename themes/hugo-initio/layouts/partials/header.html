@@ -12,7 +12,7 @@
 	<link rel="shortcut icon" href="{{ .Site.BaseURL }}{{ .Site.Params.favicon }}">
 
 	<!-- Bootstrap -->
-	<link href="https://netdna.bootstrapcdn.com/bootstrap/3.0.0/css/bootstrap.no-icons.min.css" rel="stylesheet">
+	<link href="https://netdna.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css" rel="stylesheet">
 	<!-- Icons -->
 	<link href="https://netdna.bootstrapcdn.com/font-awesome/4.0.3/css/font-awesome.css" rel="stylesheet">
 	<!-- Fonts -->
@@ -22,11 +22,6 @@
 
 	<!--[if lt IE 9]> <script src="js/html5shiv.js"></script> <![endif]-->
 
-    {{ if .Site.Params.customsharethis }}
-        <script type="text/javascript" src="//platform-api.sharethis.com/js/sharethis.js#property={{ .Site.Params.sharethis.property }}&product=custom-share-buttons"></script>
-    {{ else }}
-        <script type="text/javascript" src="//platform-api.sharethis.com/js/sharethis.js#property={{ .Site.Params.sharethis.property }}&product=inline-share-buttons"></script>
-    {{ end }}
 
 <script type="text/javascript" src="//downloads.mailchimp.com/js/signup-forms/popup/embed.js" data-dojo-config="usePlainJson: true, isDebug: false"></script><script type="text/javascript">require(["mojo/signup-forms/Loader"], function(L) { L.start({"baseUrl":"mc.us18.list-manage.com","uuid":"bf986f4fffe146c9e482432df","lid":"24035978e6"}) })</script>
 
@@ -34,14 +29,16 @@
 <body class="home">
 
 <header id="header">
-	<div id="head" class="parallax" parallax-speed="2">
+  <section class="module parallax parallax-1" data-type="background" data-speed="10">
+	<div class="parallax-container">
 		<h1 id="logo" class="text-center">
+			<span class="title"><img src="{{ .Site.Params.logo_trans }}" width=96px height=96px></span>
 			<span class="title">{{ .Site.Params.name }}</span>
-			<span class="tagline">{{ .Site.Params.description }}<br>
-				<a href="">{{ .Site.Params.email }}</a>
-            </span>
+			<span class="tagline">{{ .Site.Params.description }}<br></span>
 		</h1>
 	</div>
+
+  </section>
 
     {{ partial "menu.html" . }}
 

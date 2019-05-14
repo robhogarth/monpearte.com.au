@@ -2,6 +2,7 @@
 date = "2019-02-10"
 title = "Software developers pick up your game!"
 tags = ["Rant", "Software"]
+image = "/images/sapcost.jpg"
 +++
 
 For too long IT teams have struggled with poor software.  It's time for software developers to pick up there game

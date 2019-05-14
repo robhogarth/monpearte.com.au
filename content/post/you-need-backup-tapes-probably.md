@@ -2,6 +2,7 @@
 date = "2019-04-29"
 title = "You NEED Backups Tapes....Probably"
 tags = ["Rant", "Backups"]
+image = "/images/ltotape.jpg"
 +++
 
 

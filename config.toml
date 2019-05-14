@@ -1,9 +1,10 @@
-baseURL = "https://monpearte.com.au/"
+baseURL = "https://devmonpearte.netlify.com/"
 languageCode = "en-us"
-title = "Monpearte IT Solutions - IT Solutions for the Central and Far West of NSW"
+title = "Monpearte IT Solutions"
 theme = "hugo-initio"
 publishDir = "public"
 enableRobotsTXT = "true"
+paginate = 3
 
 [sitemap]
   changefreq = "monthly"
@@ -15,14 +16,17 @@ displayName = "Rob Hogarth"
 
 [params]
     name = "Monpearte IT Solutions"
-    description = "IT Solutions for the Central and Far West NSW"
+    description = "A boutique, uniquely Australian IT provider"
     year = 2017
-    background = ""
+    background = "/Images/lochardgorge_amped.jpg"
+    logo_trans = "/Images/256x256White.png"
     favicon = "images/gt_favicon.png"
     DateForm = "January 2, 2006"
-    tags = "Central West"
+    tags = "Sydney, NSW and the Central West"
+    summary = "We are a boutique IT Solutions provider bringing enterprise grade IT experience to small businesses around Australia.  IT best practises without the big budget prices.  Partner with us and get your own IT department.  We look after your IT solutions so you can focus on your business."
 
 
+    showBlogPosts = true
     showSubheader = true
     showServices = true
     showRecentWorks = false

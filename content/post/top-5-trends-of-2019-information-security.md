@@ -2,6 +2,7 @@
 date = "2019-01-30"
 title = "Top 5 Trends of 2019 - Information Security is a Business Problem"
 tags = ["Information", "Security"]
+image = "/images/leo-information-security.jpg"
 +++
 
 At the end of last year I had the privilege of working with a company around their information security.  They successfully achieved their ISO 27001 certification.  For a relatively small business that was an enormous effort.  

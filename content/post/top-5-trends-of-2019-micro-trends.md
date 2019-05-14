@@ -2,6 +2,7 @@
 date = "2019-01-31"
 title = "Top 5 Trends of 2019 - Micro Trends"
 tags = ["Micro", "Trends"]
+image = "/images/microservicesforants.jpg"
 +++
 
 There's a number of trends out there that you should be considering and keeping your eye on, but don't warrant an entire article this week.   Let's look at micro trends of 2019.<!--more--> 
