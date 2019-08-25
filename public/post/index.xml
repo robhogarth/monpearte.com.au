@@ -1,31 +1,25 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Posts on Monpearte IT Solutions - IT Solutions for the Central and Far West of NSW</title>
+    <title>Posts on Monpearte IT Solutions</title>
     <link>https://monpearte.com.au/post/</link>
-    <description>Recent content in Posts on Monpearte IT Solutions - IT Solutions for the Central and Far West of NSW</description>
+    <description>Recent content in Posts on Monpearte IT Solutions</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 12 Mar 2019 12:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 29 Apr 2019 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://monpearte.com.au/post/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
-      <title>Creating a Complete IT Strategy</title>
-      <link>https://monpearte.com.au/post/complete-it-strategy/</link>
-      <pubDate>Tue, 12 Mar 2019 12:00:00 +0000</pubDate>
+      <title>You NEED Backups Tapes....Probably</title>
+      <link>https://monpearte.com.au/post/you-need-backup-tapes-probably/</link>
+      <pubDate>Mon, 29 Apr 2019 00:00:00 +0000</pubDate>
       
-      <guid>https://monpearte.com.au/post/complete-it-strategy/</guid>
-      <description>Just buying new computers is not enough
-Hardware lifecyle Management Desktops Servers Mobile Devices Power Managment Networking Components
-Software Management
-Budget planning Hardware costs Software renewals
-IT personel costs DR/BC Plans Service Provider Contract Plans Internet Other outsourced providers Print Management External Hardware Management
-Risk Assessment and Analysis
-IT governance
-Incident Management Change Management
-Security Management</description>
+      <guid>https://monpearte.com.au/post/you-need-backup-tapes-probably/</guid>
+      <description>&lt;p&gt;As a veteran IT professional, I love to argue as much as the next veteran IT professional.  Mostly my arguments are harmless debates about the pros and cons of different brands of software, different architectural designs and who is the best companion in Doctor Who.&lt;/p&gt;
+
+&lt;p&gt;&lt;/p&gt;</description>
     </item>
     
     <item>

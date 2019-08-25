@@ -3,6 +3,12 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://monpearte.com.au/incidentresponse/</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
     <loc>https://monpearte.com.au/about/</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
@@ -15,15 +21,43 @@
   </url>
   
   <url>
+    <loc>https://monpearte.com.au/post/end-user-training-is-important/</loc>
+    <lastmod>2019-08-08T12:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://monpearte.com.au/post/you-need-backup-tapes-probably/</loc>
+    <lastmod>2019-04-29T00:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://monpearte.com.au/post/software-developers-pick-up-your-game/</loc>
+    <lastmod>2019-02-10T00:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://monpearte.com.au/post/top-5-trends-of-2019-micro-trends/</loc>
+    <lastmod>2019-01-31T00:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
     <loc>https://monpearte.com.au/post/top-5-trends-of-2019-information-security/</loc>
-    <lastmod>2019-01-29T12:00:00+00:00</lastmod>
+    <lastmod>2019-01-30T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
     <loc>https://monpearte.com.au/post/top-5-trends-of-2019-cloud-strategy/</loc>
-    <lastmod>2019-01-28T12:00:00+00:00</lastmod>
+    <lastmod>2019-01-29T12:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
@@ -78,6 +112,13 @@
   </url>
   
   <url>
+    <loc>https://monpearte.com.au/tags/backups/</loc>
+    <lastmod>2019-04-29T00:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>https://monpearte.com.au/categories/</loc>
     <changefreq>monthly</changefreq>
     <priority>0</priority>
@@ -85,7 +126,7 @@
   
   <url>
     <loc>https://monpearte.com.au/tags/cloud/</loc>
-    <lastmod>2019-01-28T12:00:00+00:00</lastmod>
+    <lastmod>2019-01-29T12:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0</priority>
   </url>
@@ -105,7 +146,7 @@
   
   <url>
     <loc>https://monpearte.com.au/tags/information/</loc>
-    <lastmod>2019-01-29T12:00:00+00:00</lastmod>
+    <lastmod>2019-01-30T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0</priority>
   </url>
@@ -124,8 +165,15 @@
   </url>
   
   <url>
+    <loc>https://monpearte.com.au/tags/micro/</loc>
+    <lastmod>2019-01-31T00:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>https://monpearte.com.au/</loc>
-    <lastmod>2019-01-29T12:00:00+00:00</lastmod>
+    <lastmod>2019-08-08T12:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0</priority>
   </url>
@@ -138,21 +186,28 @@
   
   <url>
     <loc>https://monpearte.com.au/tags/password/</loc>
-    <lastmod>2019-01-27T00:00:00+00:00</lastmod>
+    <lastmod>2019-08-08T12:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>https://monpearte.com.au/post/</loc>
-    <lastmod>2019-01-29T12:00:00+00:00</lastmod>
+    <lastmod>2019-08-08T12:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://monpearte.com.au/tags/rant/</loc>
+    <lastmod>2019-04-29T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>https://monpearte.com.au/tags/security/</loc>
-    <lastmod>2019-01-29T12:00:00+00:00</lastmod>
+    <lastmod>2019-08-08T12:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0</priority>
   </url>
@@ -170,8 +225,15 @@
   </url>
   
   <url>
+    <loc>https://monpearte.com.au/tags/software/</loc>
+    <lastmod>2019-02-10T00:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>https://monpearte.com.au/tags/strategy/</loc>
-    <lastmod>2019-01-28T12:00:00+00:00</lastmod>
+    <lastmod>2019-01-29T12:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0</priority>
   </url>
@@ -186,6 +248,13 @@
   <url>
     <loc>https://monpearte.com.au/tags/trend/</loc>
     <lastmod>2019-01-28T00:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://monpearte.com.au/tags/trends/</loc>
+    <lastmod>2019-01-31T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0</priority>
   </url>
