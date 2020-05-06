@@ -10,10 +10,10 @@ weight = 10
 Links to helpful downloads for users
 
 ## Splashtop
-<a href=downloads/splashtopsos.exe>SplashtopSOS Remote Support Tool</a>
+<a href=splashtopsos.exe>SplashtopSOS Remote Support Tool</a>
 
 ## Pulse VPN
-<a href=downloads/pulse-installer.msi>Pulse VPN</a>
+<a href=pulse-installer.msi>Pulse VPN</a>
 
 
 
