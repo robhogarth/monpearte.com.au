@@ -1,88 +1,167 @@
-baseURL = "https://monpearte.com.au/"
-languageCode = "en-us"
+# Main config file for icon theme.
+theme = "hugo-icon"
+baseURL = "https://monpearte.com.au"
+languageCode = "en-AU"
 title = "Monpearte IT Solutions"
-theme = "hugo-initio"
-publishDir = "public"
-enableRobotsTXT = "true"
-paginate = 3
 
-[sitemap]
-  changefreq = "monthly"
-  filename = "sitemap.xml"
-  priority = 0.5
-
-[author]
-displayName = "Rob Hogarth"
-
+# Metadata
 [params]
-    name = "Monpearte IT Solutions"
-    description = "A boutique, uniquely Australian IT provider"
-    year = 2017
-    background = "/Images/lochardgorge_amped.jpg"
-    logo_trans = "/Images/256x256White.png"
-    favicon = "images/gt_favicon.png"
-    DateForm = "January 2, 2006"
-    tags = "Based in Sydney, servicing Australia-wide"
-    summary = "We are a boutique IT Solutions provider bringing enterprise grade IT experience to small businesses around Australia.  Providing IT best practises without the big budget prices.  Partner with us and get your own IT department.  We look after your IT solutions so you can focus on your business."
+  author = "Rob Hogarth"
+  description = "Building transformative IT solutions for businesses"
 
+# Hero section (from here on is for icon theme)
+[params.hero]
+  img = "images/website hugo-icon hero.png"
+  title = "Monpearte&nbsp;IT&nbsp;Solutions"
+  description = "Bespoke IT solutions for your business"
 
-    showBlogPosts = true
-    showSubheader = true
-    showServices = true
-    showRecentWorks = false
-    showDownload = false
-    showClients = false
+# Navigation section
+[params.nav]
+  mission = "Our Mission"
+  services = "Services"
+  team = "The Team"
+  contact = "Get In Touch"
+  # Include logo instead if HOME:
+  logo = "images/128x128.png"
 
-    footerEnableContact = false
-    footerEnableFollowme = true
-    footerEnableTextWidget = false
-    footerEnableFormWidget = false
+# Mission section
+[params.mission]
+  enable = true
 
-[[menu.main]]
-    name = "home"
-    url = "/"
+  [params.mission.images]
+    enable = true
+
+    [[params.mission.images.list]]
+      img = "images/img_3.jpg"
+    [[params.mission.images.list]]
+      img = "images/img_2.jpg"
+    [[params.mission.images.list]]
+      img = "images/img_1.jpg"
+    [[params.mission.images.list]]
+      img = "images/img_4.jpg"
+
+  [[params.mission.item]]
     weight = 1
+    name = "remotesupport"
+    title = "Support"
+    subtitle = "Take the worry away from day to day issues"
+    description = "<p>aNo matter how great your system is, there are always issues and requests.  Achieve peace of mind having IT support only a quick email or phone call away.  Any time you need we are there to help keep you working.</p><ul class='checked'><li>Any issue large or small</li><li>Talk to someone on the phone quickly at anytime</li></ul><p><a href='#' class='btn btn-primary btn-outline fh5co-content-nav' data-nav-section='contact'>Get In Touch</a></p>"
 
-[[menu.main]]
-    name = "blog"
-    url = "/post"
-    weight = 5
+  [[params.mission.item]]
+    weight = 2
+    name = "analysis"
+    title = "Resources"
+    subtitle = "Need another IT guy or gal to get you through?"
+    description = "<p>Sometimes are just not enough hours in the day.  You may have a great team, but need an extra hand.  Whether it's full-time, part-time or a once off, we can provide qualified IT personnel in a variety of roles.  </p><ul class='checked'><li>Senior or Junior IT staff to compliment your team</li><li>Security Specialists</li><li>IT Leadership</li><li>Web and Software Developers</li></ul><p><a href='#' class='btn btn-primary btn-outline fh5co-content-nav' data-nav-section='contact'>Get In Touch</a></p>"
 
-[params.disqus]
-    site = "hugo-initio-site.disqus.com"
+  [[params.mission.item]]
+    weight = 3
+    name = "strategy"
+    title = "Strategy"
+    subtitle = "Start planning for the future"
+    description = "<p>Become a partner and let us work together to create an IT strategy for your business.  We listen to you to discover how your business works, to create an IT roadmap into the future.  Help us ensure your business flourishes and grows.</p><ul class='checked'><li>Unlock IT potential</li><li>Ensure you are spending IT budgets wisely</li><li>Create the right digital and online strategy</li></ul><p><a href='#' class='btn btn-primary btn-outline fh5co-content-nav' data-nav-section='contact'>Get In Touch</a></p>"
 
-[params.sharethis]
-    property = "123456789012345678901234"
-    custom = true
+# Services section
+[params.services]
+  enable = true
+  video = true
+  vidlink = "https://www.youtube.com/watch?v=djzkV6d2b_U"
+  title = "Our Services"
+  description = "We are a boutique IT Solutions provider bringing enterprise grade IT experience to small businesses around Australia. Providing IT best practises without the big budget prices. Partner with us and get your own IT department. We look after your IT solutions so you can focus on your business."
 
-[params.google.analytics]
-    trackerID = "UA-123121596-2"
+  [[params.services.item]]
+    icon = "icon-heartbeat"
+    title = "IT Scorecard"
+    description = "As a business, you need to understand where your IT is at. Do you have technical debt? Are there unknown issues waiting to cause problems?"
 
-[[params.social]]
-	title = "facebook"
-	url = "https://www.facebook.com/monpearteitsolutions/"
-    icon = "fa-facebook-square"
-    footer = true
-    sharethis = true
-    network = "facebook"
-[[params.social]]
-	title = "twitter"
-	url = "https://twitter.com/monpearteIT"
-    icon = "fa-twitter-square"
-    footer = true
-    sharethis = true
-    network = "twitter"
-[[params.social]]
-	title = "linkedin"
-	url = "https://www.linkedin.com/company/monpearte-it-solutions/"
-    icon = "fa-linkedin-square"
-    footer = true
-    sharethis = true
-    network = "linkedin"
-[[params.social]]
-	title = "email"
-	url = "mailto:info@monpearte.com.au"
-    icon = "fa-envelope"
-    footer = true
-    sharethis = true
-    network = "email"
+  [[params.services.item]]
+    icon = "icon-server2"
+    title = "Managed Services"
+    description = "Need an IT team but don’t need the cost. Let us be your IT team. We keep your tech running, plus we give you the strategic advice and planning you need"
+
+  [[params.services.item]]
+    icon = "icon-medkit"
+    title = "Need an Online Makeover"
+    description = "Need a total online overhaul? A custom domain name, email address and your own social media channels? Getting that online presence is easy and cheaper than ever these days"
+
+  [[params.services.item]]
+    icon = "icon-twitter"
+    title = "Social Media Engagement"
+    description = "Do you need help in engaging your customers? Want to get into the world of social media but don’t know how or have the time to learn? Let us help you every step of the way"
+
+  [[params.services.item]]
+    icon = "icon-cloud-upload2"
+    title = "Cloud Services"
+    description = "Thinking of utilizing the power of the cloud, but not sure where to start.  We can help you unlock your cloud potential"
+
+  [[params.services.item]]
+    icon = "icon-phone-square"
+    title = "Customer Support"
+    description = "Onsite and Remote support.  24x7 for your business.  We are always ever a phone call away"
+
+# Work section
+[params.work]
+  enable = false
+
+  [[params.work.item]]
+    title = "Consectetur adipisicing"
+    subtitle = "Web Design"
+    img = "images/img_1.jpg"
+
+  [[params.work.item]]
+    title = "Consectetur adipisicing"
+    subtitle = "Web Design"
+    img = "images/img_2.jpg"
+
+  [[params.work.item]]
+    title = "Consectetur adipisicing"
+    subtitle = "Web Design"
+    img = "images/img_3.jpg"
+
+  [[params.work.item]]
+    title = "Consectetur adipisicing"
+    subtitle = "Web Design"
+    img = "images/img_2.jpg"
+
+  [[params.work.item]]
+    title = "Consectetur adipisicing"
+    subtitle = "Web Design"
+    img = "images/img_3.jpg"
+
+  [[params.work.item]]
+    title = "Consectetur adipisicing"
+    subtitle = "Web Design"
+    img = "images/img_2.jpg"
+
+  [[params.work.item]]
+    title = "Consectetur adipisicing"
+    subtitle = "Web Design"
+    img = "images/img_3.jpg"
+
+  [[params.work.item]]
+    title = "Consectetur adipisicing"
+    subtitle = "Web Design"
+    img = "images/img_4.jpg"
+
+
+# Contact section
+[params.contact]
+  enable = true
+  title = "Get In Touch"
+  message = "No matter whether your big or small we can help transform your IT environment.  Contact us anytime either through the form below. or call us 1800 931 334"
+  name_placeholder = "Your name"
+  email_placeholder = "Your email"
+  email_disclaimer = "We'll never share your email with anyone else."
+  message_placeholder = "Please enter a message."
+  button_text = "Submit"
+
+# Footer section
+# Note here that the copyright and attribution statement must remain as part of the license agreement. If you wish to remove this, please contact freehtml5 and pay for a professional license.
+[params.footer]
+  enable = true
+  note = "<p><small>&copy; 2016 Free HTML5 Template. All Rights Reserved. <br> Designed by <a href='http://freehtml5.co/' target='_blank'>FreeHTML5.co</a> Demo Images: <a href='http://pexels.com/' target='_blank'>Pexels</a><br>Hugo port by <a href='https://github.com/SteveLane/' target='_blank'>SteveLane</a></small></p>"
+  twitter = "https://twitter.com/monpearteIT"
+  facebook = "https://www.facebook.com/monpearteitsolutions/"
+  linkedin = "https://www.linkedin.com/company/monpearte-it-solutions/"
+
+  

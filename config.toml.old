@@ -1,0 +1,99 @@
+baseURL = "https://monpearte.com.au/"
+languageCode = "en-au"
+title = "Monpearte IT Solutions"
+theme = "hugo-icon"
+publishDir = "public"
+enableRobotsTXT = "true"
+paginate = 3
+
+[sitemap]
+  changefreq = "monthly"
+  filename = "sitemap.xml"
+  priority = 0.5
+
+[author]
+displayName = "Rob Hogarth"
+
+[params]
+    author = "Rob Hogarth"
+    description = "A boutique, uniquely Australian IT provider"
+
+    [params.hero]
+       img = "images/her_bg.jpg"
+       title = Create awesome things for better web"
+       description = "Lovingly hand-crafted by the fine folks at [FreeHTML5.co](http://freehtml5.co/)"
+
+
+
+
+    name = "Monpearte IT Solutions"
+    description = "A boutique, uniquely Australian IT provider"
+    year = 2017
+    background = "/Images/lochardgorge_amped.jpg"
+    logo_trans = "/Images/256x256White.png"
+    favicon = "images/gt_favicon.png"
+    DateForm = "January 2, 2006"
+    tags = "Based in Sydney, servicing Australia-wide"
+    summary = "We are a boutique IT Solutions provider bringing enterprise grade IT experience to small businesses around Australia.  Providing IT best practises without the big budget prices.  Partner with us and get your own IT department.  We look after your IT solutions so you can focus on your business."
+
+
+    showBlogPosts = true
+    showSubheader = true
+    showServices = true
+    showRecentWorks = false
+    showDownload = false
+    showClients = false
+
+    footerEnableContact = false
+    footerEnableFollowme = true
+    footerEnableTextWidget = false
+    footerEnableFormWidget = false
+
+[[menu.main]]
+    name = "home"
+    url = "/"
+    weight = 1
+
+[[menu.main]]
+    name = "blog"
+    url = "/post"
+    weight = 5
+
+[params.disqus]
+    site = "hugo-initio-site.disqus.com"
+
+[params.sharethis]
+    property = "123456789012345678901234"
+    custom = true
+
+[params.google.analytics]
+    trackerID = "UA-123121596-2"
+
+[[params.social]]
+	title = "facebook"
+	url = "https://www.facebook.com/monpearteitsolutions/"
+    icon = "fa-facebook-square"
+    footer = true
+    sharethis = true
+    network = "facebook"
+[[params.social]]
+	title = "twitter"
+	url = "https://twitter.com/monpearteIT"
+    icon = "fa-twitter-square"
+    footer = true
+    sharethis = true
+    network = "twitter"
+[[params.social]]
+	title = "linkedin"
+	url = "https://www.linkedin.com/company/monpearte-it-solutions/"
+    icon = "fa-linkedin-square"
+    footer = true
+    sharethis = true
+    network = "linkedin"
+[[params.social]]
+	title = "email"
+	url = "mailto:info@monpearte.com.au"
+    icon = "fa-envelope"
+    footer = true
+    sharethis = true
+    network = "email"
