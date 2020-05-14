@@ -5,7 +5,11 @@ type = "about"
 weight = 10
 +++
 
-We are ready and waiting to help transform your business.  Let us know how we can help:
+We are ready and waiting to help transform your business.
+
+Call us now 1800 931 334.
+
+Or let us know how we can help:
 
 <form name="contact" method="POST" netlify>
   <p>
@@ -15,7 +19,14 @@ We are ready and waiting to help transform your business.  Let us know how we ca
     <label>Your Email: <input type="email" required name="email" size="56"/></label>
   </p>
   <p>
-    <label>Message:    <textarea name="message" rows="8" cols="59"></textarea></label>
+  <div>
+    <label>Message: </label>
+	</div>
+	<div>
+	<textarea name="message" rows="8" cols="69"></textarea>
+	</div>
+  </p>
+  <p>
   <label><input type="checkbox" name="mailinglist" value="mailme" checked=true> I would like to receive regular updates and information</label>
   </p>
   <p>
