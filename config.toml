@@ -45,7 +45,7 @@ title = "Monpearte IT Solutions"
     name = "remotesupport"
     title = "Support"
     subtitle = "Take the worry away from day to day issues"
-    description = "<p>aNo matter how great your system is, there are always issues and requests.  Achieve peace of mind having IT support only a quick email or phone call away.  Any time you need we are there to help keep you working.</p><ul class='checked'><li>Any issue large or small</li><li>Talk to someone on the phone quickly at anytime</li></ul><p><a href='#' class='btn btn-primary btn-outline fh5co-content-nav' data-nav-section='contact'>Get In Touch</a></p>"
+    description = "<p>No matter how great your system is, there are always improvements to make and issues to fix.  Achieve peace of mind having IT support only a quick email or phone call away.  Any time you need we are there to help keep you working.</p><ul class='checked'><li>Any issue large or small</li><li>Talk to someone on the phone quickly at anytime</li></ul><p><a href='#' class='btn btn-primary btn-outline fh5co-content-nav' data-nav-section='contact'>Get In Touch</a></p>"
 
   [[params.mission.item]]
     weight = 2
