@@ -3,12 +3,13 @@ theme = "hugo-icon"
 baseURL = "https://monpearte.com.au"
 languageCode = "en-AU"
 title = "Monpearte IT Solutions"
-googleAnalytics = "UA-123121596-2"
 
 # Metadata
 [params]
   author = "Rob Hogarth"
   description = "Building transformative IT solutions for businesses"
+
+  favicon = "images/gt_favicon.png"
 
 # Hero section (from here on is for icon theme)
 [params.hero]
