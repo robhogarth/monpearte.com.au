@@ -263,7 +263,7 @@ p {
 .fh5co-main-nav .fh5co-menu-1 a {
   padding: 35px 0;
   margin-right: 30px;
-  color: #ccc;
+  color: #666;
   text-transform: uppercase;
   letter-spacing: 2px;
   font-size: 13px;
@@ -276,6 +276,7 @@ p {
 .fh5co-main-nav .fh5co-menu-1 a:hover, .fh5co-main-nav .fh5co-menu-1 a:focus, .fh5co-main-nav .fh5co-menu-1 a:active {
   outline: none;
   text-decoration: none;
+  color: #000;
 }
 .fh5co-main-nav .fh5co-menu-1 a.active {
   font-weight: 400;
